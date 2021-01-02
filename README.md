@@ -1,1 +1,3 @@
-# mini-dl-framework
+# A mini DL framework
+
+Look at directory miniflow.
